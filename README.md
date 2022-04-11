@@ -1,6 +1,6 @@
 
 # Anime Assumption (v 0.1.0)
-
+![](assets/Anime-Wordle-blueviolet.svg)
 This is the repository of my CS 455 Project where I pursue the latest hit craze,
 Wordle and put my own twist on it.
 
@@ -35,7 +35,6 @@ This is the current roadmap.
 - App.js ----------------> File with majority of the code
 - Assets ----------------> Image folder for readme
 ## Installation Instructions
-![](assets/Anime-Wordle-blueviolet.svg)
 - Clone the application
 git clone https://github.com/wlam97/CS-455
 
@@ -60,7 +59,7 @@ After the user has used up all of their guesses, they have lost the game.
 If a user manages to guess the word, they will have won the game for that specific day.
 ## Demo
 Included below is my Project logo, and the main UI of my application.
-![](assets/Demo.jpg)
+![](assets/Demo.jpg) width = "250"
 ![](assets/icon.png)
 
 ## Bug List
