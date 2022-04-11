@@ -59,7 +59,7 @@ After the user has used up all of their guesses, they have lost the game.
 If a user manages to guess the word, they will have won the game for that specific day.
 ## Demo
 Included below is my Project logo, and the main UI of my application.
-![](assets/Demo.jpg | width = 250)
+![](assets/Demo.jpg | width=250)
 ![](assets/icon.png)
 
 ## Bug List
