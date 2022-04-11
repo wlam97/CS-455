@@ -35,9 +35,9 @@ This is the current roadmap.
 - App.js ----------------> File with majority of the code
 - Assets ----------------> Image folder for readme
 ## Installation Instructions
-
+![](assets/Anime-Wordle-blueviolet.svg)
 - Clone the application
-git clone https://github.com
+git clone https://github.com/wlam97/CS-455
 
 - install via npm
 npm install
@@ -60,7 +60,6 @@ After the user has used up all of their guesses, they have lost the game.
 If a user manages to guess the word, they will have won the game for that specific day.
 ## Demo
 Included below is my Project logo, and the main UI of my application.
-![](assets/Anime-Wordle-blueviolet.svg)
 ![](assets/Demo.jpg)
 ![](assets/icon.png)
 
