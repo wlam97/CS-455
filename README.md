@@ -24,9 +24,9 @@ This is the current roadmap.
 1. Manifest
 2. Installation Instructions
 3. Usage
-4. Contact Information
-5. Demo Pictures
-6. Bug List 
+4. Demo Pictures
+5. Bug List 
+6. Contact Information
 7. License
 8. Project Status
 9. Credits and Acknowledgements 
