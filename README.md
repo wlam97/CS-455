@@ -1,6 +1,7 @@
 
 # Anime Assumption (v 0.1.0)
 ![](assets/Anime-Wordle-blueviolet.svg)
+
 This is the repository of my CS 455 Project where I pursue the latest hit craze,
 Wordle and put my own twist on it.
 
