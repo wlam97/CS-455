@@ -14,11 +14,12 @@ const AnimeAssumption = () => (
     
   </SafeAreaView>
 )
-
+//safe area view is to help avoid the application being cut off on devices with camera cutouts or notches
 export default function App() {
 
 
 //this is to create the guessing rows/columns which would fill up with the user's guesses
+  //i was attempting to use input and set input to constantly update the cells in the wordle game,
   const [input, setInput] = React.useState("");
   return (
     <SafeAreaView style={styles.container}>
