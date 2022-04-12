@@ -61,6 +61,7 @@ If a user manages to guess the word, they will have won the game for that specif
 Included below is my Project logo, and the main UI of my application.
 
 <img src="https://github.com/wlam97/CS-455/blob/main/assets/Demo.jpg" width="225">
+
 ![](assets/icon.png)
 
 ## Bug List
